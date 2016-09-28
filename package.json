@@ -1,0 +1,16 @@
+{
+  "name": "node-mongo-crud",
+  "version": "0.0.1",
+  "private": false,
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juan267/node-mongo-crud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/juan267/node-mongo-crud/issues"
+  },
+  "homepage": "https://github.com/juan267/node-mongo-crud",
+  "keywords": [],
+  "license": "MIT"
+}
